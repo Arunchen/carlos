@@ -1,0 +1,1 @@
+FROM gcr.io/uber-container-tools/kraken-agent:v0.1.1

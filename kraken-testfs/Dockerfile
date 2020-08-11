@@ -1,0 +1,1 @@
+FROM gcr.io/uber-container-tools/kraken-testfs:v0.1.1

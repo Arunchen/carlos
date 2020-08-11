@@ -1,0 +1,1 @@
+FROM gcr.io/uber-container-tools/kraken-tracker:v0.1.1
